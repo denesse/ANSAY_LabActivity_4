@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TOP COMPANIES</string>
+
+    <string-array name="companies">
+        <item>BMW</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Mitsubishi</item>
+        <item>Nissan</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>Country: Germany</item>
+        <item>Country: United States</item>
+        <item>Country: Japan</item>
+        <item>Country: South Korea</item>
+        <item>Country: South Korea</item>
+        <item>Country: Japan</item>
+        <item>Country: Japan</item>
+        <item>Country: France</item>
+        <item>Country: Germany</item>
+        <item>Country: France</item>
+        <item>Country: Japan</item>
+        <item>Country: Japan</item>
+        <item>Country: Japan</item>
+        <item>Country: Germany</item>
+    </string-array>
+
+    <string-array name="industry">
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Trading Companies</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+        <item>Industry: Auto and Truck manufacturers</item>
+    </string-array>
+
+    <string-array name="ceo">
+        <item>CEO: Harald Kruger</item>
+        <item>CEO: Jim P. Hackett</item>
+        <item>CEO: Takahiro Hachigo</item>
+        <item>CEO: Mong-Koo Chung</item>
+        <item>CEO: Jun-Young Choi</item>
+        <item>CEO: Takehiko Kakiuchi</item>
+        <item>CEO: Hiroto Saikawa</item>
+        <item>CEO: Carlos Tavares</item>
+        <item>CEO: Hans Dieter Potsch</item>
+        <item>CEO: Hiroto Saikawa</item>
+        <item>CEO: Tomomi Nakamura</item>
+        <item>CEO: Toshihiro Suzuki</item>
+        <item>CEO: Takeshi Uchiyamada</item>
+        <item>CEO: Herbert Dies</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Bayerische Motoren Werke AG engages in the manufacture and sale of automobiles and motorcycles. It operates through the following segments: Automotive, Motorcycles and Financial Services. The Automotive segment develops, manufactures, assembles, and sells cars and off-road vehicles, under the following brands: BMW, MINI and Rolls-Royce, as well as spare parts and accessories. The Motorcycles segment develops, produces, assembles, and markets BMW and Husqvarna brand motorcycles, as well as spare parts and accessories. The Financial Services segment includes car leasing, fleet business, retail customer and dealer financing, customer deposit business, and insurance activities. The company was founded on March 6, 1916 and is headquartered in Munich, Germany.</item>
+        <item>Ford Motor Co. engages in the manufacture, distribution, and sale of automobiles. It operates through the following segments: Automotive, Financial Services, Ford Smart Mobility, and Central Treasury Operations. The Automotive segment includes the sale of Ford and Lincoln brand vehicles, service parts, and accessories worldwide, together with the associated costs to develop, manufacture, distribute, and service the vehicles, parts, and accessories. </item>
+        <item>Honda Motor Co., Ltd. engages in the manufacture and sale of automobiles, motorcycles, and power products. It operates through the following segments: Automobile, Motorcycle, Financial Services, and Power Product and Other Businesses. The Automobile segment manufactures and sells automobiles and related accessories. The Motorcycle segment handles all-terrain vehicles, motorcycle business, and related parts. The Financial Services segment provides financial and insurance services. The Power Product and Other Businesses segment offers power products and relevant parts. The company was founded on September 24, 1948 and is headquartered in Tokyo, Japan</item>
+        <item>Hyundai Motor Co., Ltd. engages in the manufacture and distribution of motor vehicles and parts. It operates through the following business areas: Vehicle, Financial and Others. The Vehicle division offers motor vehicles. The Financial division provides financing, leasing and credit cards. The Other division includes manufacture of railways. It was founded on December 29,1967 and is headquartered in Seoul, Korea.</item>
+        <item>Kia Motors Corp. engages in the manufacturing and sales of motor vehicles. It operates through the following segment: Passenger Cars, Recreational Vehicles and Commercial Vehicles. It is also involved in leasing vehicles, providing vehicle maintenance services and automobile Parts. The company was founded on December 10, 1944 and is headquartered in Seoul, South Korea.</item>
+        <item>Mitsubishi Corp. engages in the provision of services utilizing the function of general trading. It operates through the following segments: Global Environmental and Infrastructure, Industrial Finance, Logistics and Development, Energy Business, Metals, Machinery, Chemicals, Living Essentials, and Others. </item>
+        <item>Nissan Motor Co., Ltd. engages in the manufacture and sale of automotive products and marine equipment. It operates through the following segments: Automobile and Sales. The Automobile segment manufactures and sells vehicles, forklift, marine equipment, and related parts.</item>
+        <item>Peugeot SA manufactures automobiles and light commercial vehicles. It produces motorbikes, scooters, hydraulic engines, vehicle components and provides after sales service. The Peugeot operates through the following business segments: Automotive, Automotive Equipment, Transportation and Logistics, Finance and Other Businesses. The Automotive segment engages in the designing, manufacturing and selling of cars and light commercial vehicles under the Peugeot and Citroen brands.</item>
+        <item>Porsche Automobil Holding SE engages in the development, manufacture, and trade of vehicles. It operates and distributes its products under the following brands: Volkswagen Passenger Cars, Audi, SEAT, ŠKODA, Bentley, Bugatti, Lamborghini, Porsche, Ducati, Volkswagen Commercial Vehicles, Scania, and MAN. The company was founded on June 26, 2007 and is headquartered in Stuttgart, Germany.</item>
+        <item>Renault SA is a French multinational vehicle manufacturer, which engages in the design and manufacture of automobiles and other motor vehicles. The company also offers tractors, farm machinery, and construction equipment. It provides passenger cars and light commercial vehicles; electric vehicles; sports vehicles; and power train components. </item>
+        <item>Fuji Heavy Industries Ltd. engages in the manufacture and sale of automobiles, aircraft, engine parts, and industrial machines. Its operations are carried out through the following segments: Automobile, Aerospace, Industrial Products, and Others. The Automobile segment produces, repair, and sells passenger cars and automobile parts.</item>
+        <item>Suzuki Motor Corp. engages in the research, development, design, manufacture, sale, and distribution of motorcycles, passenger cars, commercial vehicles and special machines. It operates through the following segments: Motorcycles, Automobiles and Special Machines. The Motorcycles segment produces and merchandises motorcycles and all terrain vehicles. The Automobiles segment manufactures and sells mini, sub-compact, and standard-sized vehicles.</item>
+        <item>Toyota Motor Corp. engages in the manufacture and sale of motor vehicles and parts. It operates through the following segments: Automotive Operations, Financial Services, and All Other. The Automotive Operations segment designs, manufactures, assembles and sells passenger cars, minivans, trucks, and related vehicle parts and accessories. It is also involved in the development of intelligent transport systems (ITS). The Financial Services segment offers purchase or lease financing to Toyota vehicle dealers and customers. It also provides retail leasing through lease contracts purchase by dealers. The All Other segment deals with the design and manufacture of prefabricated housing, information technology related businesses that includes a web portal for automobile information called GAZOO.com, and sales promotions for KDDI communication related products. The company was founded by Kiichiro Toyoda on August 28, 1937 and is headquartered in Toyota, Japan.</item>
+        <item>Volkswagen AG engages in the manufacture of automobiles. It operates through following segments: Passenger Cars, Commercial Vehicles, Power Engineering, and Financial Services. The Passenger Cars segment covers the development of vehicles and engines, the production and sale of passenger cars and light commercial vehicles, and the corresponding genuine parts business. The Commercial Vehicles segment comprises the development, production and sale of light commercial vehicles, trucks and buses, the corresponding genuine parts business and related services. The Power Engineering segment consists of the development and production of large-bore diesel engines, turbo compressors, industrial turbines and chemical reactor systems, as well as the production of gear units, propulsion components and testing systems. The Financial Services segment engages in dealer and customer financing, leasing, banking and insurance activities, as well as fleet management. The company was founded in May 28, 1937 and is headquartered in Wolfsburg, Germany.</item>
+    </string-array>
+</resources>
+
